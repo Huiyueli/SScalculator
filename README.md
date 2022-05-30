@@ -1,1 +1,1 @@
-# Sample-size---R-shiny
+# Sample size calculator
